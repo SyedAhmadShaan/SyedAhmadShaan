@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SyedAhmadShaan
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning SQL,Tableau & R
-- 💞️ I’m looking to collaborate on data analysis projects
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Typescript
+- 💞️ I’m looking to collaborate on typescript projects
 - 📫 Reach me at ahmadthegreat91@gmail.com
 
 <!---
