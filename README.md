@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on typescript projects
 - 🔍 Excitedly delving into the world of Typescript and its applications.
 - 📫 Reach me at www.linkedin.com/in/syed-ahmad-shan
+- 📫 Check out my packages at npm: https://www.npmjs.com/~ahmadth3gr3at
 
 <!---
 SyedAhmadShaan/SyedAhmadShaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
