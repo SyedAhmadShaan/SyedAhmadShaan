@@ -1,8 +1,8 @@
-**Hi, I’m Syed Ahmad Shaan, a student enrolled in PIAIC Batch-57 Cloud Applied Generative Artificial Intelligence Engineering.**
-- 🎓 Currently learning Typescript.
-- 🌱 Excitedly delving into the world of Typescript and its applications.
-- 💞️ I’m looking to collaborate on typescript projects
-- 🔍 Excitedly delving into the world of Typescript and its applications.
+**Hi, I’m Syed Ahmad Shaan, a Data Analyst and Freelancer, passionate about AI. I am currently enrolled in PIAIC (Batch-57) Cloud Applied Generative AI Engineering program.**
+- 🎓 I'm aspiring to become an AI Full Stack Developer.
+- 🌱 Currently learning HTML, CSS, Javascript/Typescript, Node, React, PostgreSQL, Web3 and DApps.
+- 💞️ I’m looking to collaborate on web development projects
+- 🔍 Exploring TypeScript and learning about its various applications..
 - 📫 Reach me at www.linkedin.com/in/syed-ahmad-shan
 - 📫 Check out my packages at npm: https://www.npmjs.com/~ahmadth3gr3at
 
