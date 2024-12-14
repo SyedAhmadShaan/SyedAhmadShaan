@@ -3,7 +3,7 @@
 - 🌱 Currently learning Javascript/Typescript, Node.js, Nexts.js, Tailwind CSS, React, PostgreSQL, Web3 and DApps.
 - 💞️ I’m looking to collaborate on web apps projects
 - 📫 Reach me at www.linkedin.com/in/syed-ahmad-shan
-- ➡️ Check out my portfolio: https://resume-app-tau-lilac.vercel.app/
+- ➡️ Check out my portfolio: https://ahmaddevs.com/
 
 <br />
 <br />
