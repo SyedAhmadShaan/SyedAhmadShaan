@@ -1,4 +1,4 @@
-**Hi, I’m Syed Ahmad Shaan, a Data Analyst and Freelancer, passionate about AI. I am currently enrolled in PIAIC (Batch-57) Cloud Applied Generative AI Engineering program.**
+**Hi, I’m Syed Ahmad Shaan, a full stack developer, freelancer, passionate about AI. I am currently enrolled in PIAIC (Batch-57) Cloud Applied Generative/Agentic AI Engineering program.**
 - 🎓 I'm aspiring to become an AI Developer.
 - 🌱 Currently learning Javascript/Typescript, Node.js, Nexts.js, Tailwind CSS, React, PostgreSQL, Web3 and DApps.
 - 💞️ I’m looking to collaborate on web apps projects
