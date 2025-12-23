@@ -38,7 +38,7 @@ I’m currently advancing my expertise through the **[Certified Agentic & Roboti
 
 ## 📌 Featured Projects
 
-- **🤖 [AI Resume Builder](https://www.resumesquad.cc/)** — Built with Next.js + OpenAI Agents SDK to generate tailored resumes.
+- **🤖 [ResumeSquad](https://www.resumesquad.cc/)** is a premium, AI-powered resume and cover letter builder. It leverages a multi-agent AI system to analyze user profiles, target job descriptions, and generate ATS-optimized application materials in seconds.
 - **🧠 [Full-Stack E-commerce Application](https://brandsverse.vercel.app/)** — Built with Next.js + TypeScript + Tailwind CSS + Framer Motion + Auth.js v5.
 - **⚡ [A Space-Themed Personal Portfolio](https://ahmaddevs.com/)** — Built with Next.js + TypeScript + Tailwind CSS + Three.js.
 
